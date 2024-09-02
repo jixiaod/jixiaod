@@ -1,16 +1,11 @@
-## Hi there 👋
+# 👋 Hi there! I'm Ji Gang （老虎）
 
-<!--
-**jixiaod/jixiaod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I do not love to solve problems with code, but I love to live.
+![Followers](https://badges.fw-web.space/github/followers/jixiaod?style=flat-square&logo=github)
+ 
+## 👨‍💻 About Me
+* 📍 I was born in 1986 and grew up in a rural area in Fushun, Liaoning Province. Before turning 20, I had never left Liaoning Province.
+* 🎓 In 2006, I started studying Software Engineering at Harbin Institute of Technology (Weihai) and graduated in 2010.
+* 🏢 After graduation, I worked at a few second-tier internet companies and am currently freelancing
+* 📝 I write [blog](https://muetsch.io/archives) posts from time to time
+* ⚙️ I don't enjoy programming much and hope to retire soon.
